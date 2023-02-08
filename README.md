@@ -1,6 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=130&section=header&text=Phoenix%20Proj1%20Kurly&fontSize=40" /></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/83347465/217286839-11dca5c5-5432-4acf-ad1a-244d85532606.png"width="300" height="300"></p>
+![image](https://user-images.githubusercontent.com/83347465/217451088-83338d0e-7066-44d5-998a-3772cfc93717.png)
 <p align="center">LikeLion FE School 4기 Vanilla Project</p>
 
 <p align="center"><strong>❤️‍🔥Phoenix - Karly</strong></p>
@@ -18,12 +18,24 @@
  ## 분담
  ## 개발기간 및 작업관리
   ### GitHub Projects
-  ### Issues
-   #### ✅ FEATURE
-   #### 🐞 BUG
-   #### 🗓️ schedule
-   #### Labels
+  ---
+  ### 🚨 Issues
+   #### ✅ FEATURE 작업 사항 기록 템플릿
+<img width="806" alt="image" src="https://user-images.githubusercontent.com/83347465/217452782-f5d05a39-8e2e-4e8d-b6f0-b0c3578ea3c9.png">
+
+   #### 🐞 BUG 버그 발생/수정 시 작성
+   <img width="806" alt="image" src="https://user-images.githubusercontent.com/83347465/217452872-c3c69e53-4c36-472b-9747-124542128c0d.png">
+
+   #### 🗓️ SCHEDULE phoenix조의 schedule
+   <img width="808" alt="image" src="https://user-images.githubusercontent.com/83347465/217452986-e5ab18a3-d135-439d-814f-671f51e8df7f.png">
+
+   #### 🏷️ Labels
+   <img width="808" alt="image" src="https://user-images.githubusercontent.com/83347465/217454589-a9a69d43-d533-4421-8754-86bdf91fbc69.png">
+
+   ---
   ### Milestones
+  <img width="1043" alt="image" src="https://user-images.githubusercontent.com/83347465/217457033-c21b2ccc-4325-46b0-84ce-ab5a216aa201.png">
+
  ## Ground Rul
   ### Git Commit 규칙
   ### Git Flow Branch 전략
@@ -49,9 +61,8 @@
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🌐 Browsers
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
  ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
- ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
- ![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)
  ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
  ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
  
